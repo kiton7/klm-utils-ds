@@ -1,0 +1,15 @@
+{
+  "name": "klm-utils-ds",
+  "version": "0.0.1",
+  "description": "数据结构学习",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "learn",
+    "dataStructure"
+  ],
+  "author": "Kiton",
+  "license": "MIT"
+}
